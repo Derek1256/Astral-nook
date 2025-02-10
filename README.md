@@ -1,3 +1,12 @@
+
+# Astral-Nook
+
+This is just Nookure with Edits made for Starmc // Comet Galaaxy // Astraylst.
+
+You can find more about Nookure below or head over to  their repo [Nookure Theme](https://github.com/Nookure/NookTheme).
+
+----------------------------------------------------------------------------------------------------------------------------------
+
 # Nook Theme
 NookTheme is a free and open source [Pterodactyl theme](https://pterodactyl.io) designed to be simple, clean, and modern.
 
