@@ -75,6 +75,7 @@ const LoginContainer = ({ history }: RouteComponentProps) => {
         >
             {({ isSubmitting, setSubmitting, submitForm }) => (
                 <LoginFormContainer title={'Login to Continue'} css={tw`w-full flex`}>
+                <LoginFormContainer title={'Login to the Universe'} css={tw`w-full flex`}>
                     <Field light type={'text'} label={'Username or Email'} name={'username'} disabled={isSubmitting} />
                     <div css={tw`mt-6`}>
                         <Field light type={'password'} label={'Password'} name={'password'} disabled={isSubmitting} />
@@ -105,6 +106,7 @@ const LoginContainer = ({ history }: RouteComponentProps) => {
                             css={tw`text-xs text-neutral-500 tracking-wide no-underline uppercase hover:text-neutral-600`}
                         >
                             Forgot password?
+                            Did you mess up your password? Contact Polaris Staff
                         </Link>
                     </div>
                 </LoginFormContainer>
