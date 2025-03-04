@@ -1,9 +1,7 @@
 
 # Astral-Nook
 
-This is just Nookure with Edits made for Starmc // Comet Galaaxy // Astraylst.
-
-You can find more about Nookure below or head over to  their repo [Nookure Theme](https://github.com/Nookure/NookTheme).
+NOTICE! repo has moved over to: https://git.starmc.net/StarMC/Astral-nook!
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
